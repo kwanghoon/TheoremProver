@@ -15,23 +15,29 @@ Ok, modules loaded: Main.
 Starting Tactical Theorem Prover...
 > goal P & Q --> Q & P
 (P & Q --> Q & P)
- 1. empty  |- (P & Q --> Q & P)
+1. empty  |- (P & Q --> Q & P)
+
 > by impR 1
 (P & Q --> Q & P)
  1. P & Q  |- Q & P
+
 > by conjL 1
 (P & Q --> Q & P)
  1. P, Q  |- Q & P
+
 > by conjR 1
 (P & Q --> Q & P)
  1. P, Q  |- Q
  2. P, Q  |- P
+
 > by basic 2
 (P & Q --> Q & P)
  1. P, Q  |- Q
+
 > by basic 1
 (P & Q --> Q & P)
 No subgoals left!
+
 > quit
 end...
 *Main> 
