@@ -55,6 +55,7 @@ Starting Tactical Theorem Prover...
 No subgoals left!
 
 > quit
+
 end...
 
 *Main> 
