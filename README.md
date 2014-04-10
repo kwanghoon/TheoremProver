@@ -5,10 +5,15 @@ A Haskell Implemetation of a Tactical Theorem Prover in L.C. Paulson's Book (ML 
 
 
 GHCi, version 7.0.4: http://www.haskell.org/ghc/  :? for help
+
 Loading package ghc-prim ... linking ... done.
+
 Loading package integer-gmp ... linking ... done.
+
 Loading package base ... linking ... done.
+
 Loading package ffi-1.0 ... linking ... done.
+
 Prelude> [1 of 1] Compiling Main             ( /Users/lazyswamp/Work/haskell/theoremprover/Main.hs, interpreted )
 Ok, modules loaded: Main.
 *Main> main
