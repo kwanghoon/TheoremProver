@@ -17,8 +17,11 @@ Loading package ffi-1.0 ... linking ... done.
 Prelude> [1 of 1] Compiling Main             ( /Users/lazyswamp/Work/haskell/theoremprover/Main.hs, interpreted )
 
 Ok, modules loaded: Main.
+
 *Main> main
+
 Starting Tactical Theorem Prover...
+
 > goal P & Q --> Q & P
 
 (P & Q --> Q & P)
