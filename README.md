@@ -3,6 +3,7 @@ TheoremProver
 
 A Haskell Implemetation of a Tactical Theorem Prover in L.C. Paulson's Book (ML for the Working Programmer).
 
+```
 
 GHCi, version 7.0.4: http://www.haskell.org/ghc/  :? for help
 
@@ -59,3 +60,4 @@ No subgoals left!
 end...
 
 *Main> 
+```
